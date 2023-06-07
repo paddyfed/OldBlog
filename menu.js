@@ -1,36 +1,23 @@
-// display menu
 
-document.write('<P><IMG SRC="sys/space.gif" HEIGHT="10" WIDTH="10" BORDER="0"></P>'
-+'<P>'
-+'<UL>'
-+	'<LI><a href="start.html" class="menu">Start Page</a></LI>'
-+	'<UL>'
-+		'<LI><A HREF="start_update.html" class="menu">Updates</A></LI>'
-+	'</UL>'
-+	'<LI><A HREF="main.html" class="menu">Main</A></LI>'
-+	'<UL>'
-+		'<LI class="menu"><A HREF="main_starwars.html" class="menu">Star Wars</A></LI>'
-+		'<LI class="menu"><A HREF="main_sport.html" class="menu">Sport</A></LI>'
-+		'<LI class="menu"><A HREF="main_books.html" class="menu">Books</A></LI>'
-+		'<LI class="menu"><A HREF="main_films.html" class="menu">Films</A></LI>'
-+		'<LI class="menu"><A HREF="main_birthgames.html" class="menu">Birthday Games</A></LI>'
-+		'<LI><A HREF="main_links.html" class="menu">Links</A></LI>'
-+	'</UL>'
-+	'<LI class="menu"><a href="college.html" class="menu">College</a></LI>'
-+	'<UL class="menu">'
-+		'<LI><a href="college_first.html" class="menu">First Year</a></LI>'
-+		'<LI class="menu"><a href="college_sec.html" class="menu">Second Year</a></LI>'
-+		'<LI class="menu"><a href="college_third.html" class="menu">Third Year</a></LI>'
-+		'<LI class="new"><a href="college_fourth.html" class="new">Fourth Year</a></LI>'
-+		'<LI class="menu"><A HREF="college_links.html" class="menu">Links</A></LI>'
-+	'</UL>'
-+	'<LI class="menu"><A HREF="sitemap.html" class="menu">Site Map</A></LI>'
-+	'<LI><a href="#" class="menu">e-mail</a></LI>'
-+'</UL>'
-+'</P>');
+document.write('<p class="image"><img src="menu.png" width="130" height="50" border="0" alt="Menu" title="Menu"></p>');
+document.write('<p class="text">');
+document.write('<a href="index.html" title="Main Page">Main</a><br>');
+document.write('<a href="blog.html" title="My WeBlog">Blog</a><br>');
+document.write('<a href="updates.html" title="Site Updates">Updates</a><br>');
 
-// each element must have a + infront
+document.write('<a href="starwars.html" title="Star Wars">Star Wars</a><br>');
+document.write('<a href="films.html" title="Films">Films</a><br>');
+document.write('<a href="tv.html" title="TV Shows">TV</a><br>');
+document.write('<a href="compgames.html" title="Computer Games">Computer Games</a><br>');
+document.write('<a href="sport.html" title="Sport">Sport</a><br>');
+document.write('<a href="books.html" title="Books">Books</a><br>');
+document.write('<a href="music.html" title="Music">Music</a><br>');
 
-// set focus to this window
+document.write('<a href="college.html" title="College">College</a><br>');
 
-// document(focus);
+document.write('<a href="birthdaygames.html" title="The Birthday Games">Birthday Games</a><br>');
+
+document.write('<a href="links.html" title="Links to Other Sites">Links</a><br>');
+document.write('<a href="sitemap.html" title="Site Map">Site Map</a><br>');
+document.write('<a href="contact.html" title="Contact Me">Contact Me</a><br>');
+document.write('</p>');

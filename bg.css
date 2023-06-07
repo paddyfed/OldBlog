@@ -1,0 +1,8 @@
+body { text-align: center; margin-left: auto; margin-right: auto; }
+hr { height: 5px; width: 75%; text-align: center; background: #ff0000; color: #ff0000; }
+#heading { text-decoration: underline; font-weight: bold; }
+#left-col { text-align: left; width: 50%; position: absolute; left: 12.5%; }
+#right-col { text-align: left; width: 50%; position: relative; left: 50%; }
+table { margin-left: auto; margin-right: auto; }
+#final-heading { text-decoration: underline; font-weight: bold; color: #0000ff; }
+#winner { font-weight: bold; }

@@ -1,0 +1,38 @@
+body { background: url('stars.gif'); background-repeat: repeat; }
+.border { text-align: left; font-size: small; background: url('stars.gif');  color: #F00000; border-style: solid; border-width: 10px; overflow: auto; border-color: #c00000; }
+#container { position: relative; width: 750px; height: auto; top: 0px; left: 0px; margin-left: auto; margin-right: auto; color: #F00000; }
+#top-box { position: absolute; width: 750px; height: 100px; left: 0px; top: 0px;  }
+#mid-box { position: absolute; width: 750px; height: auto; left: 0px; top: 100px; }
+#head-box { position: absolute; width: 570px; height: 300px; left: 160px; top: 0px; background: url('top.png'); background-repeat: no-repeat; overflow: hidden; }
+#menu-box { position: absolute; width: 130px; height: 1010px; left: 0px; top: 0px; }
+#banner { position: absolute; left: 210px; top: 330px; width: 468px; height: 60px; text-align: center; }
+#b1 { position: absolute; width: 270px; height: 290px; left: 160px; top: 400px; }
+#b2 { position: absolute; width: 270px; height: 290px; left: 460px; top: 400px; }
+#b3 { position: absolute; width: 270px; height: 290px; left: 160px; top: 720px; }
+#b4 { position: absolute; width: 270px; height: 290px; left: 460px; top: 720px; }
+#bot-box { position: absolute; width: 750px; height: 150px; left: 0px; top: 1130px; text-align: center; font-size: x-small; }
+#blog-box { position: absolute; left: 15px; top: 16px; width: 293px; height: 265px; overflow: auto; text-align: left; }
+#college {position: absolute; left: 600px; top: 0px; width: 150px; height: 150px; z-index: 5; }
+hr { height: 5px; width: 75%; text-align: center; background: #c00000; color: #c00000; }
+A { color: #c00000; text-decoration: none; }
+A:hover { color: #800000; text-decoration: none; }
+#main-box { position: absolute; width: 570px; height: 610px; left: 160px; top: 400px; overflow: auto; }
+#info-box { position: absolute; width: 570px; height: 300px; left: 160px; top: 0px; overflow: auto; text-align: center; }
+h1 { color: #c00000; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 5px; text-align: center; font-size: large; font-family: sans-serif; }
+h2 { color: #c00000; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 5px; font-size: small; font-family: sans-serif; }
+h3 { color: #c00000; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 5px; font-family: sans-serif; }
+h4 { color: #c00000; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 5px; font-family: sans-serif; }
+p.text { text-align: left; margin-left: 5px; margin-top: 5px; margin-right: 5px; margin-bottom: 5px; }
+#large-box { position: absolute; width: 570px; height: 1010px; left: 160px; top: 0px; overflow: auto; text-align: left; }
+#linkstable { text-align: center; border-width: 1px; border-style: solid; width: 98%; height: auto; margin-left: auto; margin-right: auto; margin-top: 10px; margin-bottom: 10px;}
+td#url { border-width: 1px; border-style: solid; width: 30%; }
+td#description { border-width: 1px; border-style: solid; width: 70%; }
+p.image { text-align: center; }
+#left-col-box { position: absolute; left: 0px; width: 50%; }
+#right-col-box { position: absolute; left: 50%; width: 50%; }
+#indent { margin-left: 10px; }
+#position { border-width: 1px; border-style: solid; width: 10%; }
+#team { border-width: 1px; border-style: solid; width: auto; }
+#pd { border-width: 1px; border-style: solid; width: 12%; }
+#pts { border-width: 1px; border-style: solid; width: 12%; }
+
