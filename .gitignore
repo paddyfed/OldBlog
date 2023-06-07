@@ -4,3 +4,9 @@ cgi-bin
 files
 *.psp
 *.db
+*.jbf
+cdown.php
+demo.php
+offset.php
+psp_files
+animation

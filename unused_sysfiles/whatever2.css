@@ -1,0 +1,26 @@
+.container { position: relative; width: 750px; height: auto; top: 0px; left: 0px; margin-left: auto; margin-right: auto;  }
+.top-box { position: absolute; width: 750px; height: 100px; left: 0px; top: 0px;  }
+.mid-box { position: absolute; width: 750px; height: auto; left: 0px; top: 100px; }
+#head-box { position: absolute; width: 570px; height: 300px; left: 160px; top: 0px; }
+#b1 { position: absolute; width: 270px; height: 290px; left: 160px; top: 400px; }
+#b2 { position: absolute; width: 270px; height: 290px; left: 460px; top: 400px; }
+#b3 { position: absolute; width: 270px; height: 290px; left: 160px; top: 720px; }
+#b4 { position: absolute; width: 270px; height: 290px; left: 460px; top: 720px; }
+#menu-box { position: absolute; width: 130px; height: 1010px; left: 0px; top: 0px; }
+.bot-box { position: absolute; width: 750px; height: 150px; left: 0px; top: 1130px; }
+#news { position: absolute; left: 15px; top: 16px; width: 293px; height: 265px; }
+#banner { position: absolute; left: 210px; top: 330px; width: 468px; height: 60px; text-align: center; }
+#college {position: absolute; left: 600px; top: 0px; width: 150px; height: 150px; z-index: 5; }
+
+
+#container { background: #ffffff;  }
+#top-box { text-align: center; background: #ffffff;}
+#mid-box { text-align: center;  background: #ffffff; }
+#head-box { text-align: left; background: url('top_yugi.png');  background-repeat: no-repeat; border-style: solid; border-width: 10px; overflow: clip; border-color: #ff0000; }
+#box { text-align: left; background: #ffffff;  color: #000000; border-style: solid; border-width: 10px; overflow: auto; border-color: #ff0000; }
+#menu-box { text-align: left; background: #ffffff; border-style: solid; border-width: 10px; overflow: clip; border-color: #ff0000; }
+#bot-box { text-align: center; background: #ffffff;  font-size: small; text-decoration: none; }
+#sbox { text-align: left; color: #000000; overflow: auto; }
+A { color: #ff0000; text-decoration: none; }
+A:hover { color: #00ff00; text-decoration: overline; }
+

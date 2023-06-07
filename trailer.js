@@ -2,11 +2,11 @@
 
 var today = new Date;
 var Future0 = new Date;
-ThisYear = 2004;
+ThisYear = 2005;
 
-var FutureMonth = 10;
-var FutureDate = 4;
-var faraevent = "The Episode III Teaser Trailer";
+var FutureMonth = 11;
+var FutureDate = 6;
+var faraevent = "Star Wars Clone Wars Volume II DVD";
 
 Future0.setMonth(FutureMonth, FutureDate);
 Future0.setFullYear(ThisYear);

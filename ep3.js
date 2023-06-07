@@ -4,9 +4,9 @@ var today = new Date;
 var Future0 = new Date;
 ThisYear = 2005;
 
-var FutureMonth = 4;
-var FutureDate = 19;
-var faraevent = "Star Wars Episode III: Revenge of the Sith";
+var FutureMonth = 10;
+var FutureDate = 1;
+var faraevent = "Star Wars Episode III: Revenge of the Sith DVD and Star Wars Battlefront II";
 
 Future0.setMonth(FutureMonth, FutureDate);
 Future0.setFullYear(ThisYear);
