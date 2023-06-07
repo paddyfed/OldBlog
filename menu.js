@@ -21,6 +21,7 @@ document.write('<P><IMG SRC="sys/space.gif" HEIGHT="10" WIDTH="10" BORDER="0"></
 +		'<LI><a href="college_first.html" class="menu">First Year</a></LI>'
 +		'<LI class="menu"><a href="college_sec.html" class="menu">Second Year</a></LI>'
 +		'<LI class="menu"><a href="college_third.html" class="menu">Third Year</a></LI>'
++		'<LI class="new"><a href="college_fourth.html" class="new">Fourth Year</a></LI>'
 +		'<LI class="menu"><A HREF="college_links.html" class="menu">Links</A></LI>'
 +	'</UL>'
 +	'<LI class="menu"><A HREF="sitemap.html" class="menu">Site Map</A></LI>'

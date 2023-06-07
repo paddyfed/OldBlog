@@ -7,7 +7,7 @@ That said I hope you like my little program.
 If you wish to comment on it or would like to see the source code then e-mail me
 
 --------------------------------------
-paddyfedoo@esatclear.ie
+p****@****.ie
 
 http://paddyfedoo.andmuchmore.com
 
