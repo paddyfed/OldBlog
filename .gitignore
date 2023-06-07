@@ -1,0 +1,4 @@
+.htaccess
+*.LOG
+cgi-bin
+files

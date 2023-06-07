@@ -1,0 +1,17 @@
+BODY { BACKGROUND-COLOR: #000000; }
+TD.menu { BACKGROUND-COLOR: #000000; }
+TD { BACKGROUND-COLOR: #FFFFFF; }
+.menu { BACKGROUND: #000000; TEXT-DECORATION: NONE; COLOR: #00FFFF; font-size: 12; }
+P.main { margin: 0em 2em 1em 2em; }
+HR { color: #408080; width: 75%; align: center; }
+P { margin-LEFT: 0.5em; MARGIN-RIGHT: 0.5em; }
+H4 { margin-LEFT: 0.5em; MARGIN-RIGHT: 0.5em; }
+H5 { margin-LEFT: 0.5em; MARGIN-RIGHT: 0.5em; }
+.sw { BACKGROUND: URL(sys/stars.gif); TEXT-DECORATION: NONE; COLOR: #FFFF00; font-size: 12; }
+.red { color: #FF0000; text-decoration: none; }
+.orange { color: #FF8000; text-decoration: none; }
+.yellow { color: #FFFF00; text-decoration: none; }
+.new { background: #000000; color: #FF00FF; text-decoration: none; }
+.sw_new { background: #000000; color: #00FF00; text-decoration: none; }
+.index { margin: 2em 12em 0em 12em; text-decoration: none; font-size: 10; }
+.gbook { MARGIN-LEFT: 5px; MARGIN-RIGHT: 5px; }
